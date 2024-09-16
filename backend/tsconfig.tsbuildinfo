@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/apis/category.ts","./src/apis/product.ts","./src/apis/signin.ts","./src/apis/signup.ts","./src/apis/subcategory.ts","./src/authentication/auth.ts","./src/routehandler/router.ts","./src/types/express.d.ts","./src/types/user.ts","./src/uploadfunction/upload.ts"],"version":"5.6.2"}
